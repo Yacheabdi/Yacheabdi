@@ -27,7 +27,7 @@ A web application that takes user input through a form and returns a personalize
 **Stack:** Python, Flask, HTML, CSS
 **Concepts:** Routing, GET/POST requests, Templates, Form handling
 
-🔗 [View Project →](https://github.com/YacheTechie/angaza)
+🔗 [View Project →](https://github.com/Yacheabdi/angaza)
 
 ---
 
