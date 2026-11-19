@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yacheabdi
+- 👋 Hi, I’m @YacheTechie
 - 👀 I’m interested in ...learning and gaining more skills
 - 🌱 I’m currently learning ...frontEnd development
 - 💞️ I’m looking to collaborate on ...web development
